@@ -1,0 +1,19 @@
+{
+    "username": "idaniellau@gmail.com", 
+    "environment": "production", 
+    "project_name": "SFDevBox", 
+    "workspace": "/Users/daniellau/sites/", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "IJAST2470MYKZYBLYMUI1DPQ3WAJMM6P", 
+    "metadata_container": "1dc37000000LVORAA4", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

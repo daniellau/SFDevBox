@@ -1,0 +1,28 @@
+{
+    "MyDemoTestClass.cls": {
+        "createdById": "00537000000QGiqAAG", 
+        "createdByName": "Daniel Lau", 
+        "createdDate": "2015-07-10 09:23:31", 
+        "fileName": "unpackaged/classes/MyDemoTestClass.cls", 
+        "fullName": "MyDemoTestClass", 
+        "id": "01p37000000j8b4AAA", 
+        "lastModifiedById": "00537000000QGiqAAG", 
+        "lastModifiedByName": "Daniel Lau", 
+        "lastModifiedDate": "2015-07-10 09:26:02", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "dashboard.page": {
+        "createdById": "00537000000QGiqAAG", 
+        "createdByName": "Daniel Lau", 
+        "createdDate": "2015-07-10 10:50:13", 
+        "fileName": "unpackaged/pages/dashboard.page", 
+        "fullName": "dashboard", 
+        "id": "0663700000079TtAAI", 
+        "lastModifiedById": "00537000000QGiqAAG", 
+        "lastModifiedByName": "Daniel Lau", 
+        "lastModifiedDate": "2015-07-10 10:58:40", 
+        "mmState": "clean", 
+        "type": "ApexPage"
+    }
+}
